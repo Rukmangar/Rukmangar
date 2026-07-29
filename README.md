@@ -58,7 +58,7 @@
 ## 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rukmangar&theme=tokyonight&no-frame=true"/>
+  <img src="./.github/workflows/myheroacademia.gif" width="700" alt="My Hero Academia GIF">
 </p>
 
 ## 💬 Dev Quote
