@@ -18,35 +18,25 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<table align="center" border="0">
-<tr>
-<td>🎓</td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=58A6FF&repeat=false&width=320&lines=CSE+(Data+Science)">
-</td>
-</tr>
+<p align="center">
+  🎓
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=58A6FF&repeat=false&width=320&lines=CSE+(Data+Science)" alt="CSE (Data Science)">
+</p>
 
-<tr>
-<td>💻</td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=100000&color=58A6FF&repeat=false&width=550&lines=Java+%7C+Python+%7C+SQL+%7C+Git+%7C+GitHub">
-</td>
-</tr>
+<p align="center">
+  💻
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=100000&color=58A6FF&repeat=false&width=550&lines=Java+%7C+Python+%7C+SQL+%7C+Git+%7C+GitHub" alt="Skills">
+</p>
 
-<tr>
-<td>🌱</td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=100000&color=58A6FF&repeat=false&width=620&lines=Learning+DSA,+AI+%26+Data+Engineering">
-</td>
-</tr>
+<p align="center">
+  🌱
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=100000&color=58A6FF&repeat=false&width=620&lines=Learning+DSA,+AI+%26+Data+Engineering" alt="Learning">
+</p>
 
-<tr>
-<td>🚀</td>
-<td>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=100000&color=58A6FF&repeat=false&width=500&lines=Building+Real-World+Projects">
-</td>
-</tr>
-</table>
+<p align="center">
+  🚀
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=100000&color=58A6FF&repeat=false&width=500&lines=Building+Real-World+Projects" alt="Projects">
+</p>
 ## 🛠 Tech Stack
 
 <p align="center">
