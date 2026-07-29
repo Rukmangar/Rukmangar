@@ -27,7 +27,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,docker,vscode&perline=7"/>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Leet Code Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rukmangar&show_icons=true&theme=tokyonight&hide_border=true"/>
