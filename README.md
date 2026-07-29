@@ -16,20 +16,22 @@
 
 ## 👨‍💻 About Me
 
+<h2 align="center">👨‍💻 About Me</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=58A6FF&repeat=false&width=700&lines=%F0%9F%8E%93+CSE+(Data+Science)">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=800&color=58A6FF&repeat=true&width=700&lines=%F0%9F%8E%93+CSE+(Data+Science)">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=100000&color=58A6FF&repeat=false&width=700&lines=%F0%9F%92%BB+Java+%7C+Python+%7C+SQL+%7C+Git+%7C+GitHub">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=800&color=58A6FF&repeat=true&width=700&lines=%F0%9F%92%BB+Java+%7C+Python+%7C+SQL+%7C+Git+%7C+GitHub">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=100000&color=58A6FF&repeat=false&width=700&lines=%F0%9F%8C%B1+Learning+DSA,+AI+%26+Data+Engineering">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=58A6FF&repeat=true&width=700&lines=%F0%9F%8C%B1+Learning+DSA,+AI+%26+Data+Engineering">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=100000&color=58A6FF&repeat=false&width=700&lines=%F0%9F%9A%80+Building+Real-World+Projects">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=800&color=58A6FF&repeat=true&width=700&lines=%F0%9F%9A%80+Building+Real-World+Projects">
 </p>
 ## 🛠 Tech Stack
 
