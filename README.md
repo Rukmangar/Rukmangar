@@ -53,7 +53,7 @@
   <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
-# 📊 GitHub Stats
+# 📊 Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rukmangar&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -65,9 +65,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest" />
-  </a>
+  <img width="700" src="https://leetcard.jacoblin.cool/YARRAJODURUKMANGAR?theme=dark&font=Poppins&ext=contest"/>
 </p>
 
 <!-- Divider 4 -->
