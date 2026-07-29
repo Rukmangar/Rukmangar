@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=DataScience&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d,100:92FE9D&height=180&section=header&text=DataScience&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=gradient&text=Never%20Stop%20Learning&desc=Don't%20Give%20Up&fontSize=40&fontColor=ffffff&descSize=22&descColor=E0E0E0&animation=twinkling&fontAlignY=40&descAlignY=70"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:11998e,100:38ef7d&text=Never%20Stop%20Learning&desc=Don't%20Give%20Up&fontSize=40&fontColor=ffffff&descSize=22&descColor=E0E0E0&animation=twinkling&fontAlignY=40&descAlignY=70"
     alt="Footer"
   />
 </p>
