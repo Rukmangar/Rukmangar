@@ -91,3 +91,29 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:11998e,100:38ef7d&text=Never%20Stop%20Learning&desc=Don't%20Give%20Up&fontSize=40&fontColor=ffffff&descSize=22&descColor=E0E0E0&animation=twinkling&fontAlignY=40&descAlignY=70"/>
 </p>
+<!-- Divider -->
+<p align="center">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
+</p>
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:your_email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin-username">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/91XXXXXXXXXX">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+💬 Feel free to connect with me for collaborations, projects, and learning opportunities!
+</p>
