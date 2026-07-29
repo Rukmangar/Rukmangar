@@ -70,6 +70,7 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Rukmangar/Rukmangar/snake-output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rukmangar/Rukmangar/snake-output/snake.svg" alt="Snake animation">
+</p>
 ###
