@@ -65,5 +65,8 @@
 ## 🌊 Footer
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=gradient&text=Never%20Stop%20Learning&desc=Don't%20Give%20Up&fontSize=40&fontColor=ffffff&descSize=22&descColor=E0E0E0&animation=twinkling&fontAlignY=40&descAlignY=70"
+    alt="Footer"
+  />
 </p>
