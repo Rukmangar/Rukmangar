@@ -18,7 +18,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<table align="center">
+<table align="center" border="0">
 <tr>
 <td>🎓</td>
 <td>
