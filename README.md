@@ -88,9 +88,6 @@
 <img src="https://raw.githubusercontent.com/Rukmangar/Rukmangar/snake-output/snake.svg"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:11998e,100:38ef7d&text=Never%20Stop%20Learning&desc=Don't%20Give%20Up&fontSize=40&fontColor=ffffff&descSize=22&descColor=E0E0E0&animation=twinkling&fontAlignY=40&descAlignY=70"/>
-</p>
 <!-- Divider -->
 <p align="center">
   <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
@@ -113,7 +110,12 @@
 </a>
 
 </p>
+<!-- Divider -->
+<p align="center">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
+</p>
+
 
 <p align="center">
-💬 Feel free to connect with me for collaborations, projects, and learning opportunities!
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:11998e,100:38ef7d&text=Never%20Stop%20Learning&desc=Don't%20Give%20Up&fontSize=40&fontColor=ffffff&descSize=22&descColor=E0E0E0&animation=twinkling&fontAlignY=40&descAlignY=70"/>
 </p>
