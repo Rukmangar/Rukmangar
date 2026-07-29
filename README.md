@@ -19,9 +19,7 @@
 
 # 👨‍💻 About Me
 
-## 👨‍💻 About Me
 
-<h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=800&color=58A6FF&repeat=true&width=700&lines=%F0%9F%8E%93+CSE+(Data+Science)">
