@@ -48,10 +48,6 @@
 <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,mongodb,mysql,git,github,docker,vscode&perline=7"/>
 </p>
 
-<!-- Divider 3 -->
-<p align="center">
-  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
-</p>
 
 
 <!-- Divider 4 -->
@@ -69,7 +65,6 @@
 <p align="center">
   <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
-# 🎬 Anime
 
 <p align="center">
 <img src="./.github/workflows/myheroacademia.gif" width="700"/>
