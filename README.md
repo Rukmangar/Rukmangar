@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d,100:92FE9D&height=220&section=header&text=DataScience&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:11998e,100:38ef7d,100:92FE9D&height=220&section=header&text=YARRAJODU%20RUKMANGAR%0AData%20Science%20Student&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B,+I'm+Rukmangar;Welcome+to+My+GitHub+Profile;Computer+Science+(Data+Science)+Student;Passionate+Java+%26+Python+Developer;Learning+Data+Structures+%26+Algorithms;AI+%7C+Machine+Learning+Enthusiast;Building+Real-World+Projects;Future+Software+Engineer+%F0%9F%9A%80" alt="Typing SVG"/> </p>
