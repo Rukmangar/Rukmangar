@@ -16,10 +16,23 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 CSE (Data Science)
-- 💻 Java | Python | SQL | Git | GitHub
-- 🌱 Learning DSA, AI & Data Engineering
-- 🚀 Building real-world projects
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2000&pause=100000&color=58A6FF&center=true&vCenter=true&repeat=false&width=500&lines=🎓+CSE+(Data+Science)" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=100000&color=58A6FF&center=true&vCenter=true&repeat=false&width=650&lines=💻+Java+%7C+Python+%7C+SQL+%7C+Git+%7C+GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=100000&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&lines=🌱+Learning+DSA,+AI+%26+Data+Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3500&pause=100000&color=58A6FF&center=true&vCenter=true&repeat=false&width=600&lines=🚀+Building+Real-World+Projects" />
+</p>
 
 ## 🛠 Tech Stack
 
