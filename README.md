@@ -16,7 +16,7 @@
 
 <!-- Divider 1 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284103-1d0d7f8b-5d18-44d4-a0fb-fd5d4f9d6f5d.gif" width="100%">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
 # 👨‍💻 About Me
@@ -39,7 +39,7 @@
 
 <!-- Divider 2 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284126-77d56c1f-87db-4c28-b4d8-0f7b6f52b65d.gif" width="100%">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
 # 🛠 Tech Stack
@@ -50,7 +50,7 @@
 
 <!-- Divider 3 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284175-acc7f5fd-8f6f-4b74-9ec3-889f7b55d1fd.gif" width="100%">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
 # 📊 GitHub Stats
@@ -66,7 +66,7 @@
 
 <!-- Divider 4 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284153-6bfb5d6f-dcb5-4ec6-b418-97b9dce6df75.gif" width="100%">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
 # 📈 Activity Graph
@@ -77,9 +77,8 @@
 
 <!-- Divider 5 -->
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-3dc24f5d-b7d5-4d89-bca4-4724f9d3dbe7.gif" width="100%">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
-
 # 🎬 Anime
 
 <p align="center">
@@ -88,7 +87,7 @@
 
 <!-- Divider 6 -->
 <p align="center">
-<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true" width="100%">
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
 # 💬 Dev Quote
@@ -99,7 +98,7 @@
 
 <!-- Divider 7 -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header"/>
+  <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
 # 🐍 Snake Contribution
