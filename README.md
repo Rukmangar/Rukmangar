@@ -53,20 +53,6 @@
   <img width="100%" src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.png?raw=true">
 </p>
 
-# 📊 Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rukmangar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rukmangar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rukmangar&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="700" src="https://leetcard.jacoblin.cool/YARRAJODURUKMANGAR?theme=dark&font=Poppins&ext=contest"/>
-</p>
 
 <!-- Divider 4 -->
 <p align="center">
