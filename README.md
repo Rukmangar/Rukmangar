@@ -1,12 +1,9 @@
-
-# Hi 👋 I'm Rukmangar
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Rukmangar&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Data Science Student&fontSize=45&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=00F7FF&center=true&width=900&lines=Computer+Science+(Data+Science)+Student;Java+Developer;Python+Developer;Machine+Learning+Enthusiast;Future+Software+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=00F7FF&center=true&width=900&lines=Welcome+To+My+GitHub+Profile;Computer+Science+(Data+Science)+Student;Java+Developer;Python+Developer;Machine+Learning+Enthusiast;Future+Software+Engineer"/>
 </p>
 
 <p align="center">
